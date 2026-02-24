@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h2>Data Nilai Mahasiswa</h2>
+<h2>Data Mahasiswa</h2>
 
 <?php
 class Mahasiswa {
@@ -32,4 +32,5 @@ $mhs1->jurusan = "Teknik Informatika";
 
 // Menampilkan data
 $mhs1->tampilData();
+
 ?>
